@@ -1,0 +1,1 @@
+C:\code\hbc-56\build\bin\acme.exe   -o test.o  -l app.hex.lmap -r app.hex.rpt  .\main.asm
